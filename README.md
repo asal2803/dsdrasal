@@ -1,6 +1,3 @@
-# Destiny 2 SDR Matchmaking Firewall
-
-## Download
 #### Clone repo or run this command: 
 ```wget -q https://raw.githubusercontent.com/fswdevl/Destiny-2-SDR-Matchmaking-Firewall/main/d2firewall.sh -O ./d2firewall.sh```
 ## Usage
@@ -31,4 +28,4 @@
 #### The first two accounts added must be the hosts of each fireteam.
 #### If the firewall is active, accounts that are not already in the firewall will be unable to join the fireteam. You can run the auto sniffer to add them.
 #### Please do not run this on your personal computer it will clobber your firewall rules. It is meant to be run in an isolated enviroment (vm, vps, spare pc).
-#### Credits to inchenzo & BasRaayman for coming up with the method.
+#### Credits to Asal#2803 on Discord - Join https://discord.gg/Tkf4MxMunN
